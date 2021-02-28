@@ -1,4 +1,7 @@
 # gpuGraph
+Comment from Moritz:
+> I continue this just focusing on python3.
+
 A very simple moving graph of GPU activity for the NVIDIA Jetson Nano Developer Kit. This allows visualization of GPU utilization.
 
 ![GPU Activity Window](https://github.com/jetsonhacksnano/gpuGraph/blob/master/gpuGraph.png)
